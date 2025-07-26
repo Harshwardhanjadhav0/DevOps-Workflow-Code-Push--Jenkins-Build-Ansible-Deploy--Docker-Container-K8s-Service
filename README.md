@@ -1009,11 +1009,9 @@ locust -f performance_tests.py --host=http://localhost
 
 ### 🌟 **CONNECT & COLLABORATE** 🌟
 
-**👨‍💻 Project Author:** [Your Name]  
-**📧 Professional Email:** your.email@example.com  
-**🔗 LinkedIn Profile:** [Connect with me](https://linkedin.com/in/your-profile)  
-**📝 Detailed Article:** [Read my comprehensive guide](https://linkedin.com/posts/your-linkedin-post-link)  
-**🐙 GitHub Repository:** [View source code](https://github.com/your-username/your-repo)  
+**👨‍💻 Project Author:** [Harshwardhan Jadhav]  
+**📧 Professional Email:** harshj86683@gmail.com  
+**🔗 LinkedIn Profile:** [Connect with me](www.linkedin.com/in/jadhavharshwardhan)  
 
 ---
 
