@@ -12,9 +12,9 @@
 ### 🎯 **PRODUCTION-READY FLASK APPLICATION DEPLOYMENT PIPELINE** 🎯
 *Zero-Downtime • Scalable • Secure • Automated*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/your-username)
-[![Blog](https://img.shields.io/badge/Blog-Read_Article-FF5722?style=flat-square&logo=medium)](https://linkedin.com/posts/your-linkedin-post-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](www.linkedin.com/in/jadhavharshwardhan)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/harshwardhanjadhav0)
+[![Blog](https://img.shields.io/badge/Blog-Read_Article-FF5722?style=flat-square&logo=medium)](https://linkedin.com/posts/https://www.linkedin.com/posts/jadhavharshwardhan_devops-cicd-jenkins-activity-7354892217649389568-__Lv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFQgnCoBgMH2PuaEzuGok5YyLx2BNyWlB8E)
 
 </div>
 
