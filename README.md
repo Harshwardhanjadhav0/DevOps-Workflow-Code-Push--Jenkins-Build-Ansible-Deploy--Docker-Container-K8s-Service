@@ -25,12 +25,10 @@
 <table align="center">
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Created_by-Your_Name-blue?style=for-the-badge" alt="Author"/>
+<img src="https://img.shields.io/badge/Created_by-Harshwardhan-Jadhav-blue?style=for-the-badge" alt="Author"/>
 <br><br>
 <strong>🔗 Connect with me:</strong><br>
-<a href="https://linkedin.com/in/your-profile">LinkedIn Profile</a> •
-<a href="https://github.com/your-username">GitHub</a> •
-<a href="https://linkedin.com/posts/your-linkedin-post-link">LinkedIn Post</a>
+<a href="www.linkedin.com/in/jadhavharshwardhan">LinkedIn Profile</a> •
 </td>
 </tr>
 </table>
