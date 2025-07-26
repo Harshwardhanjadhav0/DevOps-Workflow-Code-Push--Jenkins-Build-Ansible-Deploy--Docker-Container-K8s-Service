@@ -20,21 +20,6 @@
 
 ---
 
-## 👨‍💻 **AUTHOR & PROFESSIONAL NETWORK**
-
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Created_by-Harshwardhan-Jadhav-blue?style=for-the-badge" alt="Author"/>
-<br><br>
-<strong>🔗 Connect with me:</strong><br>
-<a href="www.linkedin.com/in/jadhavharshwardhan">LinkedIn Profile</a> •
-</td>
-</tr>
-</table>
-
----
-
 ## 🎯 **PROJECT OVERVIEW & ARCHITECTURE**
 
 <table>
